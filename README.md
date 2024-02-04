@@ -7,8 +7,8 @@
 
 <h2> Certifications</h2>
 
-- [Comptia Security+]
-- [Google Cybersecurity Professional]
+- [Comptia Security+](https://www.certmetrics.com/comptia/public/verification.aspx?code=7B3P5GP7HVK6V5CG)
+- [Google Cybersecurity Professional](https://www.coursera.org/account/accomplishments/specialization/certificate/9U67KGGMDVXJ)
 
 
 
